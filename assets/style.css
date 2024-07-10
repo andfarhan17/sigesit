@@ -1,0 +1,14 @@
+section#program {
+  background-color: #cff4fc;
+}
+
+footer.footer {
+  background-color: #cff4fc;
+  padding: 0;
+  padding-bottom: 50px;
+}
+
+footer p {
+  margin: 0;
+  padding: 0;
+}
